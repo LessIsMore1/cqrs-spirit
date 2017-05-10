@@ -1,17 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CqrsSpirit", "CqrsSpirit\CqrsSpirit.xproj", "{2101CA25-BAF2-47D3-BCD7-F66A37C0FA22}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A7ADDB7A-D3A3-477E-A6D9-B9AF771C4BE3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{5F917AC4-F008-437A-BA68-9950864E35A7}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CqrsSpirit.Tests", "CqrsSpirit.Tests\CqrsSpirit.Tests.xproj", "{0F3EBCB8-4468-41FE-9CCD-98C2E8E5871D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsSpirit", "CqrsSpirit\CqrsSpirit.csproj", "{2101CA25-BAF2-47D3-BCD7-F66A37C0FA22}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SampleWebApp", "SampleWebApp\SampleWebApp.xproj", "{625B80BA-A76C-435A-8E3B-DBCF5486DD9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsSpirit.Tests", "CqrsSpirit.Tests\CqrsSpirit.Tests.csproj", "{0F3EBCB8-4468-41FE-9CCD-98C2E8E5871D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleWebApp", "SampleWebApp\SampleWebApp.csproj", "{625B80BA-A76C-435A-8E3B-DBCF5486DD9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
